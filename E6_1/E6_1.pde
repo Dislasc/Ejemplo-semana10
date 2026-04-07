@@ -302,7 +302,7 @@ void mousePressed() {
   
   // colores en la paleta de pintura (esquina inferior derecha)
   int paletaX = 80;
-  int paletaY = 350;
+  int paletaY = 250;
   
   // detectar clicks en los colores de la paleta
   float distancia;
