@@ -9,7 +9,7 @@ int barraW = 160;
 
 void setup() {
   size(1000, 700);
-  background(255);
+  background(0);
 }
 
 void draw() {
